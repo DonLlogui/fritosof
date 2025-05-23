@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "servidor.js",
   "scripts": {
-    "test": "node --watch servidor.js"
+    "dev": "node --watch servidor.js"
   },
   "keywords": [],
   "author": "",
